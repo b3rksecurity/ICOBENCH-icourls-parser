@@ -1,6 +1,4 @@
 # by b3rksecurity
-# dont change rights u mad
-# greats to prosox & terO & kt4na & sezyo cuz is my hbibou
 dos2unix $0 2>/dev/null 1>/dev/null
 i=$(($i+1))
 for i in $(seq 1 500);
